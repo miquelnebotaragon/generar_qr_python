@@ -33,8 +33,7 @@ user@kubuntu-mnebot:~$ sudo apt install python3-pip
 ```
 3. Instal·larem finalment els mòduls necessaris responsables de generar el codi QR sol·licitat:
 ```console
-user@kubuntu-mnebot:~$ sudo pip install qrcode
-user@kubuntu-mnebot:~$ sudo pip install time
+user@kubuntu-mnebot:~$ sudo pip install qrcode && sudo pip install time
 ```
 
 # 👇 Descàrrega i execució
