@@ -38,7 +38,7 @@ user@kubunu-mnebot:~$ sudo pip install qrcode && sudo pip install time
 
 # 👇 Descàrrega i execució
 Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **generar_qr_python.py**) per a la seva posterior execució: 
-<p></p>📝 Descàrrega de l'arxiu .py des d'<a href="[https://github.com/miquelnebotaragon/escur-ar_url_tinyurl_python/blob/main/escurcar_url_tinyurl_python.py"] target="_blank">aquí</a>.
+<p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/escur-ar_url_tinyurl_python/blob/main/escurcar_url_tinyurl_python.py" target="_blank">aquí</a>.
 
 # ➕ Informació
 1️⃣ L'arxiu **.py** ha estat comentat al detall (#) per tal de possibilitar l'anàlisi del seu funcionament.<p></p>
